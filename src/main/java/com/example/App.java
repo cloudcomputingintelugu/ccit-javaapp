@@ -21,7 +21,7 @@ class HelloController {
             <!DOCTYPE html>
             <html>
             <head>
-                <title>Spring Boot on Amazon Linux</title>
+                <title>CCIT</title>
                 <style>
                     body {
                         background: linear-gradient(to right, #4facfe, #00f2fe);
@@ -43,7 +43,7 @@ class HelloController {
                 </style>
             </head>
             <body>
-                <h1>Hello from <br>Spring Boot on Amazon Linux!</h1>
+                <h1>Hello from <br>Welcome to Cloud Computing in Telugu!</h1>
             </body>
             </html>
         """;
