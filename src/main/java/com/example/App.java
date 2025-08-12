@@ -43,7 +43,7 @@ class HelloController {
                 </style>
             </head>
             <body>
-                <h1>Hello from <br>Welcome to Cloud Computing in Telugu - HYD123!!!!</h1>
+                <h1>Hello from <br>Welcome to Cloud Computing in Telugu!!!</h1>
             </body>
             </html>
         """;
